@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fshader.fsh</file>
+        <file>vshader.vsh</file>
+        <file>iashchyk2.jpg</file>
+        <file>fsh.frag</file>
+        <file>vsh.vert</file>
+    </qresource>
+</RCC>
